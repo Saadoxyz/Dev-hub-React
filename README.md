@@ -20,12 +20,12 @@
 
 ## 🎯 About The Project
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x400/1a1a1a/ffffff?text=React+Portfolio+Suite" alt="Project Banner" style="border-radius: 10px; margin: 20px 0;">
-</div>
-
-This React project combines **three real-world frontend tasks** into a single unified codebase, offering a complete hands-on demonstration of modern React development. Perfect for developers looking to showcase their skills or learn advanced React concepts.
-
+This React project combines three real-world frontend tasks into a single unified codebase, offering a complete hands-on demonstration of modern React development. The project includes:
+Personal Blog Homepage – a responsive blog interface with category filters, search input, and paginated post cards.
+Freelance Dashboard – a multi-page admin dashboard using React Router, with pages for overview, projects, and profile settings, complete with charts and recent activity notifications.
+Job Application Tracker – a fully functional job tracking system using React Context API, localStorage, and forms, allowing users to add, edit, delete, import/export job applications.
+Together, these tasks showcase essential skills like component composition, routing, state management, responsive layouts, conditional rendering, and integration of UI libraries such as Tailwind CSS and Recharts. It serves as a compact portfolio suite for aspiring React developers.
+---
 ### ✨ What's Inside
 
 <table>
