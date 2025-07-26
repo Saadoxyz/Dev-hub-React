@@ -14,8 +14,6 @@
 
 **A comprehensive React project containing three complete frontend applications showcasing modern development practices**
 
-[🚀 Live Demo](#) • [📖 Documentation](#-included-tasks) • [🐛 Report Bug](https://github.com/saadoxyz/dev-hub-react/issues) • [✨ Request Feature](https://github.com/saadoxyz/dev-hub-react/issues)
-
 </div>
 
 ---
@@ -167,7 +165,7 @@ npm run dev
 ## 🏗️ Project Structure
 
 ```
-📦 dev-hub-react/
+📦 frontend/
 ├── 📁 public/
 │   ├── 🖼️ favicon.ico
 │   └── 📄 index.html
@@ -176,10 +174,6 @@ npm run dev
 │   ├── 📄 Blog.jsx               # Personal blog homepage
 │   ├── 📄 Freelance.jsx          # Freelance dashboard
 │   ├── 📄 JobTrackerApp.jsx      # Job application tracker
-│   ├── 📁 components/            # Reusable components
-│   │   ├── 📄 Header.jsx
-│   │   ├── 📄 Sidebar.jsx
-│   │   └── 📄 Footer.jsx
 │   ├── 📁 context/               # Context providers
 │   │   └── 📄 JobContext.jsx
 │   ├── 📁 data/                  # Mock data & constants
@@ -208,23 +202,6 @@ npm run dev
 | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | Styling | ^3.0.0 |
 | ![Recharts](https://img.shields.io/badge/-Recharts-8884D8?style=flat-square&logo=recharts&logoColor=white) | Charts | ^2.5.0 |
 | ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | Build Tool | ^4.0.0 |
-
-</div>
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-### 📝 Personal Blog
-<img src="https://via.placeholder.com/600x300/3B82F6/ffffff?text=Personal+Blog+Homepage" alt="Blog Screenshot" style="border-radius: 8px; margin: 10px;">
-
-### 📊 Freelance Dashboard
-<img src="https://via.placeholder.com/600x300/10B981/ffffff?text=Freelance+Dashboard" alt="Dashboard Screenshot" style="border-radius: 8px; margin: 10px;">
-
-### 💼 Job Tracker
-<img src="https://via.placeholder.com/600x300/8B5CF6/ffffff?text=Job+Application+Tracker" alt="Job Tracker Screenshot" style="border-radius: 8px; margin: 10px;">
 
 </div>
 
@@ -314,20 +291,6 @@ Contributions are what make the open source community such an amazing place to l
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadoxyz)
 
 **Project Link:** [https://github.com/saadoxyz/dev-hub-react](https://github.com/saadoxyz/dev-hub-react)
-
-</div>
-
----
-
-## 🙏 Acknowledgments
-
-<div align="center">
-
-- [React Documentation](https://reactjs.org/) for excellent guides
-- [Tailwind CSS](https://tailwindcss.com/) for utility-first CSS framework
-- [Recharts](https://recharts.org/) for beautiful React charts
-- [Shields.io](https://shields.io/) for awesome badges
-- [Choose an Open Source License](https://choosealicense.com) for license guidance
 
 </div>
 
